@@ -1,0 +1,25 @@
+MOD CREADO POR ENRIQUEJRODRIGUEZ
+
+Derechos reservados a los respectivos creadores del
+contenido original y la versión de steam.
+
+Github: https://github.com/EnriqueJRodriguez
+
+---------------- INSTRUCCIONES --------------------------
+1 - Una vez descomprimida la carpeta debemos tener un 
+.jar (Require tener Java instalado) y una carpeta files.
+2 - Ejecutar el programa y pasarle la ruta raiz del
+parzers phase one de steam. Debe ser la carpeta raiz
+donde se encuentra el ejecutable y demás.
+3 - Click en Instalar.
+4 - Cerramos el dialogo que dice ESPERAR PACIENTEMENTE.
+5 - ESPERAMOS PACIENTEMENTE.
+6 - Aparecerá un nuevo diálogo que indica que la 
+instalación ha concluido.
+7 - (Opcional) Dar una estrella en github al repositorio.
+    del Mod
+8 - Disfrutar del mod. 
+
+--------------- OBSERVACIONES --------------------------
+El programa realiza un cambio de ficheros, no es necesario
+usar el mod luncher del juego, el normal funciona.
